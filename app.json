@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/用户名/仓库名",
-  "repository": "https://github.com/用户名/仓库名",
+  "website": "https://github.com/regisga34/vose501",
+  "repository": "https://github.com/regisga34/vose501",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
